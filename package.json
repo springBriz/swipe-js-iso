@@ -1,16 +1,16 @@
 {
-  "name": "swipe-js-iso",
-  "version": "2.0.3",
+  "name": "briz-swipe-js-iso",
+  "version": "2.0.4",
   "main": "swipe.js",
   "scripts": {
     "build": "grunt"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/voronianski/swipe-js-iso.git"
+    "url": "git+https://github.com/springBriz/swipe-js-iso.git"
   },
   "license": "MIT",
-  "homepage": "https://github.com/voronianski/swipe-js-iso#readme",
+  "homepage": "https://github.com/springBriz/swipe-js-iso#readme",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
